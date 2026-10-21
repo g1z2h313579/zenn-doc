@@ -3,9 +3,9 @@ title: 1 本の原稿を Zenn・Qiita・note に一括公開するテスト
 emoji: 🚀
 type: tech
 topics:
-- python
-- githubactions
-- 自動化
+  - python
+  - githubactions
+  - 自動化
 published: false
 ---
 

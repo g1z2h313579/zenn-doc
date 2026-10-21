@@ -3,9 +3,9 @@ title: 将一篇原稿一键发布到 Zenn、Qiita、note 的测试
 emoji: 🚀
 type: tech
 topics:
-- python
-- githubactions
-- 自動化
+  - python
+  - githubactions
+  - 自動化
 published: false
 ---
 
